@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Bread",
+        "amount": 90.0,
+        "timestamp": "2025-07-31 11:48:24"
+    },
+    {
+        "item": "Milk",
+        "amount": 50.0,
+        "timestamp": "2025-07-31 11:51:39"
+    },
+    {
+        "item": "Eggs",
+        "amount": 390.0,
+        "timestamp": "2025-07-31 11:52:11"
+    },
+    {
+        "item": "Tranport ",
+        "amount": 150.0,
+        "timestamp": "2025-07-31 11:55:06"
+    }
+]
